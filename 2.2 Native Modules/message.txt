@@ -1,2 +1,2 @@
-Hello from NodeJS!
-Hello from Angela!
+Hello from Node js
+My name is Finley Mwangola
